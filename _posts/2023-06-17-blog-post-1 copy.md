@@ -48,8 +48,8 @@ error: when running 'bundle exec jekyll liveserve'
 - If you are familiar with Git, it is recommended to edit all the contents on your local computer and then push your project to the remote repository.
 - If you are not familiar with Git, you can edit the files directly in the web user interface.
 
-For both cases, it is recommended to read the instructions provided by [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io). You do not need to learn a new programming language. Simply follow their example files to create your own website content. If you are not familiar with Markdown, you can ask ChatGPT to assist you in formatting the files into Markdown format.
+For both cases, it is recommended to read the instructions provided by [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io). You do not need to learn a new programming language. Simply follow their example files to create your own website content. If you are not familiar with Markdown, you can ask ChatGPT to assist you in formatting the files into Markdown format. **Notion** is also a good tool to generate Markdown format files.
 
-If you have any additional inquiries, the first step is to consult ChatGPT or utilize Google for assistance. Should you encounter further difficulties, please don't hesitate to send me an email. Make sure to provide a thorough description of the error information and include details about your operating system.
+If you have any additional inquiries, the first step is to consult ChatGPT or utilize Google for assistance. Should you encounter further difficulties, please don't hesitate to send me an email. Make sure to provide a thorough description of the error information and include details about your operating system. 
 
 If you are not fond of this template, you can explore other templates on GitHub that suit your preferences. Many personal websites are built using jekyll, and you typically won't need to reinstall any additional packages for them.
