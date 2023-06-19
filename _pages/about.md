@@ -13,6 +13,7 @@ I am a highly self-motivated junior Software Developer with experience in Softwa
 
 My coding interests
 ======
+- Embedded Software development
 - Robotics
 - Machine Learning
 - Computer Vision
