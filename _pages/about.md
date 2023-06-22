@@ -14,6 +14,7 @@ I am a highly self-motivated junior Software Developer with experience in Softwa
 **My favorite ancient Chinese quote:**
 > 路漫漫其修远兮，吾将上下而求索 
 --《离骚》
+======
 > The road ahead is long and has no ending; yet high and low I will search with my will unbending.
 --《Li Sao》
 
