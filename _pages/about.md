@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a highly self-motivated junior Software Developer with experience in Software Development, Machine Learning, and Data Analysis. I worked as a research intern in Scania, where I conducted a research topic related to Computer Vision in the Autonomous Driving field. In addition to the school's projects, I take on hands-on projects as a freelancer on UPWORK, focusing on Embedded Software Development and Data Science/Data Engineering. I have a bachelor's degree in Mechatronics, and I will soon graduate from KTH as a master's student in Data Science with an outstanding academic performance. I consider myself a fast learner because I can adapt my learning rate for different things, and I am always eager to acquire new techniques and knowledge in my spare time, which helps me adapt to different roles and projects. My life goal is to find my own global maximum.
+I am a highly self-motivated junior Software Developer with experience in Software Development, Machine Learning, and Data Analysis. I worked as a research intern in Scania, where I conducted a research topic related to Computer Vision in the Autonomous Driving field. In addition to the school's projects, I take on hands-on projects as a freelancer on UPWORK, focusing on Embedded Software Development and Data Science/Data Engineering. I have a bachelor's degree in Mechatronics, and I will soon graduate from KTH as a master's student in Data Science with an outstanding academic performance. I consider myself a fast learner because I can adapt my learning rate for different things, and I am always eager to acquire new techniques and knowledge, which helps me adapt to different roles and projects. My life goal is to find my own global maximum.
 
 > 路漫漫其修远兮，吾将上下而求索 
 --《离骚》  
